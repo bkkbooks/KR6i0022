@@ -1,0 +1,65 @@
+canonical_identifier: bkk:krp/KR6i0022/v1
+canonical_location: https://kanripo.org/bkk/KR6i0022/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 過去莊嚴劫千佛名經
+  identifiers:
+    alt_id:
+    - T14n0446a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0446a.xml
+    old_id: T14n0446a
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit3
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 聖
+  label: 聖
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0022_000.yaml, hash: 'sha256:9633150e88fd5f6f07174a472d975a144bc40a92c368ee3bd8ca153cc93b81f4'}
+  - {seq: 1, filename: KR6i0022_001.yaml, hash: 'sha256:b8e7a3a203f86655df3295746870102725739ba3e1882ced6337a7223f294d90'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0022_000.markers.yaml, hash: 'sha256:e380636bc62c8f3296bb29b64feb8928d38914c1f4078f9d9f8b9f86fbe92928'}
+  - {seq: 1, role: markers, filename: assets/KR6i0022_001.markers.yaml, hash: 'sha256:8e41e9acf800d5e342e5faffd3f4185b7df0015ade3a8bca96b0bcf18732f70c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0022_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 三劫三千佛緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0022_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7702
+  label: 過去莊嚴劫千佛名經亦名「集諸佛大功德山」
+  type: juan
+  level: 1
+hash: sha256:57e646017b1f6e2f48d997c14d2c2b353867512bff76661b6e25c18fb18026db
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
