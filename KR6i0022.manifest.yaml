@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0022_000.yaml, hash: 'sha256:9633150e88fd5f6f07174a472d975a144bc40a92c368ee3bd8ca153cc93b81f4'}
-  - {seq: 1, filename: KR6i0022_001.yaml, hash: 'sha256:b8e7a3a203f86655df3295746870102725739ba3e1882ced6337a7223f294d90'}
+  - {seq: 0, filename: KR6i0022_000.yaml, hash: 'sha256:068abd1f2aa015fbe9c94583843796c51d8fbc3e3ca71542e02aafa78fcfba96'}
+  - {seq: 1, filename: KR6i0022_001.yaml, hash: 'sha256:6b73ae4e0a7a936f548eb492284fd3b9ac4431e2519d0e18726aed89591029be'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0022_000.markers.yaml, hash: 'sha256:e380636bc62c8f3296bb29b64feb8928d38914c1f4078f9d9f8b9f86fbe92928'}
-  - {seq: 1, role: markers, filename: assets/KR6i0022_001.markers.yaml, hash: 'sha256:8e41e9acf800d5e342e5faffd3f4185b7df0015ade3a8bca96b0bcf18732f70c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0022_000.markers.yaml, hash: 'sha256:c37b97342ee65f1cad68d56dc5e38b72e8d1ae8584fedc694474700c5bd30d1c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0022_001.markers.yaml, hash: 'sha256:d68b22403eea3d7480267ee656001ac530bd5192c91192189f819fd0b1d033bd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -59,7 +59,4 @@ table_of_contents:
   label: 過去莊嚴劫千佛名經亦名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:57e646017b1f6e2f48d997c14d2c2b353867512bff76661b6e25c18fb18026db
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:272d608f92b856c4a6d71b130429c695e3de7ea42bdc137463381ee0ebc20539
