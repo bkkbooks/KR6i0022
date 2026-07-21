@@ -33,17 +33,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0022_000.yaml, hash: 'sha256:9633150e88fd5f6f07174a472d975a144bc40a92c368ee3bd8ca153cc93b81f4'}
+  - {seq: 0, filename: KR6i0022_000.yaml, hash: 'sha256:751fc15dd753484c3b657083eb0fe8a20119458a05d4f434c75e8299422bc343'}
   - {seq: 1, filename: KR6i0022_001.yaml, hash: 'sha256:c6872471e628ac0592e3c3c6b31398c1c28fbed645f2a559f59a0320049c8bb9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0022_000.markers.yaml, hash: 'sha256:a359b5b70ad7c4061f9d67aaa2ae3849a3b5e7a468ae553ed49620f160d9f6f4'}
+  - {seq: 0, role: markers, filename: assets/KR6i0022_000.markers.yaml, hash: 'sha256:c28fc1f78827ad748424e9bc35de50efd8bed79dc3020ae68e46e00d0210ecf3'}
   - {seq: 1, role: markers, filename: assets/KR6i0022_001.markers.yaml, hash: 'sha256:79303cf77f9927bfc879f1f6be188e05d62bba244d92eed5fd2dec8fd20cf06f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0022_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 三劫三千佛緣起
@@ -59,7 +59,7 @@ table_of_contents:
   label: 過去莊嚴劫千佛名經亦名「集諸佛大功德山」
   type: juan
   level: 1
-hash: sha256:c6e3d2f16619beb941d24828a40b8132f7998381740168d990d811009b4deae0
+hash: sha256:04f69e4c997496741f4225cae6c5aaad1ada0e22d1813bfdeeba94a3c40ab8f3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
